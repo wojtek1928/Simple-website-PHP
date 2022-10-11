@@ -1,0 +1,54 @@
+#proverb{
+    font-family: fantasy;
+    font-style: oblique;
+}
+main{
+    background-image: linear-gradient(rgb(60, 60, 60),rgb(32, 32, 32));
+    color: white;
+}
+header{
+    font-size: large;
+    text-align: center;
+    background-image: linear-gradient(rgb(60, 60, 60),rgb(172, 172, 172), rgb(60, 60, 60));
+}
+
+footer{
+    background-color: rgb(32, 32, 32);
+    padding: 2%;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+footer p{
+    text-align: right;
+}
+.col-md-6 span{
+    font-size: 20px;
+}
+.nav-item{
+    background-color: rgb(190, 190, 190);  
+    border-radius: 5% / 15% ;
+    border:  2px solid transparent;
+    margin: 1% 5% 1% 5%;
+    text-align: center;
+}
+.navbar-nav{
+    float: right;
+}
+.show .nav-item{
+    margin: 2% 0;
+}
+.nav-item:hover{
+    box-shadow: 0 0 10px black;
+}
+.navbar-brand{
+    background-color: rgb(214, 214, 214);
+    padding: 1%;
+    border-radius: 5% / 15% ;
+    border:  2px solid transparent;
+}
+.navbar-brand:hover{
+    box-shadow: 0 0 10px black;
+}
+.navbar{
+    background-image: linear-gradient(rgb(60, 60, 60),rgb(141, 141, 141),rgb(60, 60, 60));
+}
