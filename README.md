@@ -1,4 +1,6 @@
-## A simple website made as a project of the Computer Networks and Databases course at the University
+## A simple website made as a project of the Computer Networks and Databases course at the AGH University of Scienece and Technology
+
+### Copy of this website is available on http://php-web-studies-2020.joaorz.atthost24.pl/
 
 The backend of this page is made in PHP. Frontend uses JavaScript with bootstrap and CSS.
 Design requirements:
