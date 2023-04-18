@@ -1,4 +1,4 @@
-## A simple website made as a project of the Computer Networks and Databases course at the AGH University of Scienece and Technology
+## A simple website made as a project of the Computer Networks and Databases course at the AGH University of Science and Technology
 
 ### Copy of this website is available on http://php-web-studies-2020.joaorz.atthost24.pl/
 
